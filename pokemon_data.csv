@@ -1,0 +1,1546 @@
+Name,Color,Generation,Region,Type1,Type2
+Bulbasaur,green,1,kanto,grass,poison
+Ivysaur,green,1,kanto,grass,poison
+Venusaur,green,1,kanto,grass,poison
+Venusaur ♀,green,4,kanto,grass,poison
+Mega Venusaur,green,6,kalos,grass,poison
+Gigantamax Venusaur,green,8,galar,grass,poison
+Charmander,red,1,kanto,fire,
+Charmeleon,red,1,kanto,fire,
+Charizard,red,1,kanto,fire,flying
+Mega Charizard X,black,6,kalos,fire,dragon
+Mega Charizard Y,red,6,kalos,fire,flying
+Gigantamax Charizard,red,8,galar,fire,flying
+Squirtle,blue,1,kanto,water,
+Wartortle,blue,1,kanto,water,
+Blastoise,blue,1,kanto,water,
+Mega Blastoise,blue,6,kalos,water,
+Gigantamax Blastoise,blue,8,galar,water,
+Caterpie,green,1,kanto,bug,
+Metapod,green,1,kanto,bug,
+Butterfree,white,1,kanto,bug,flying
+Butterfree ♀,white,4,kanto,bug,flying
+Gigantamax Butterfree,white,8,galar,bug,flying
+Weedle,brown,1,kanto,bug,poison
+Kakuna,yellow,1,kanto,bug,poison
+Beedrill,yellow,1,kanto,bug,poison
+Mega Beedrill,yellow,6,kalos,bug,poison
+Pidgey,brown,1,kanto,normal,flying
+Pidgeotto,brown,1,kanto,normal,flying
+Pidgeot,brown,1,kanto,normal,flying
+Mega Pidgeot,brown,6,kalos,normal,flying
+Rattata,purple,1,kanto,normal,
+Rattata ♀,purple,4,kanto,normal,
+Alolan Rattata,black,7,alola,dark,normal
+Raticate,brown,1,kanto,normal,
+Raticate ♀,brown,4,kanto,normal,
+Alolan Raticate,black,7,alola,dark,normal
+Spearow,brown,1,kanto,normal,flying
+Fearow,brown,1,kanto,normal,flying
+Ekans,purple,1,kanto,poison,
+Arbok,purple,1,kanto,poison,
+Pikachu,yellow,1,kanto,electric,
+Pikachu ♀,yellow,4,kanto,electric,
+Gigantamax Pikachu,yellow,8,galar,electric,
+Pikachu Original Cap,yellow,7,alola,electric,
+Pikachu Hoenn Cap,yellow,7,alola,electric,
+Pikachu Sinnoh Cap,yellow,7,alola,electric,
+Pikachu Unova Cap,yellow,7,alola,electric,
+Pikachu Kalos Cap,yellow,7,alola,electric,
+Pikachu Alola Cap,yellow,7,alola,electric,
+Pikachu Partner Cap,yellow,7,alola,electric,
+Pikachu World Cap,yellow,8,galar,electric,
+Raichu,yellow,1,kanto,electric,
+Raichu ♀,yellow,4,kanto,electric,
+Alolan Raichu,brown,7,alola,electric,psychic
+Sandshrew,yellow,1,kanto,ground,
+Alolan Sandshrew,white,7,alola,ice,steel
+Sandslash,yellow,1,kanto,ground,
+Alolan Sandslash,blue,7,alola,ice,steel
+Nidoran♀,blue,1,kanto,poison,
+Nidorina,blue,1,kanto,poison,
+Nidoqueen,blue,1,kanto,poison,ground
+Nidoran♂,purple,1,kanto,poison,
+Nidorino,purple,1,kanto,poison,
+Nidoking,purple,1,kanto,poison,ground
+Clefairy,pink,1,kanto,fairy,
+Clefable,pink,1,kanto,fairy,
+Vulpix,brown,1,kanto,fire,
+Alolan Vulpix,white,7,alola,ice,
+Ninetales,yellow,1,kanto,fire,
+Alolan Ninetales,blue,7,alola,ice,fairy
+Jigglypuff,pink,1,kanto,normal,fairy
+Wigglytuff,pink,1,kanto,normal,fairy
+Zubat,purple,1,kanto,poison,flying
+Zubat ♀,purple,4,kanto,poison,flying
+Golbat,purple,1,kanto,poison,flying
+Golbat ♀,purple,4,kanto,poison,flying
+Oddish,blue,1,kanto,grass,poison
+Gloom,blue,1,kanto,grass,poison
+Gloom ♀,blue,4,kanto,grass,poison
+Vileplume,red,1,kanto,grass,poison
+Vileplume ♀,red,4,kanto,grass,poison
+Paras,red,1,kanto,bug,grass
+Parasect,red,1,kanto,bug,grass
+Venonat,purple,1,kanto,bug,poison
+Venomoth,purple,1,kanto,bug,poison
+Diglett,brown,1,kanto,ground,
+Alolan Diglett,brown,7,alola,ground,steel
+Dugtrio,brown,1,kanto,ground,
+Alolan Dugtrio,brown,7,alola,ground,steel
+Meowth,yellow,1,kanto,normal,
+Alolan Meowth,blue,7,alola,dark,
+Galarian Meowth,brown,8,galar,steel,
+Gigantamax Meowth,yellow,8,galar,normal,
+Persian,yellow,1,kanto,normal,
+Alolan Persian,blue,7,alola,dark,
+Psyduck,yellow,1,kanto,water,
+Golduck,blue,1,kanto,water,
+Mankey,brown,1,kanto,fighting,
+Primeape,brown,1,kanto,fighting,
+Growlithe,brown,1,kanto,fire,
+Hisuian Growlithe,brown,8,hisui,fire,rock
+Arcanine,brown,1,kanto,fire,
+Hisuian Arcanine,brown,8,hisui,fire,rock
+Poliwag,blue,1,kanto,water,
+Poliwhirl,blue,1,kanto,water,
+Poliwrath,blue,1,kanto,water,fighting
+Abra,brown,1,kanto,psychic,
+Kadabra,brown,1,kanto,psychic,
+Kadabra ♀,brown,4,kanto,psychic,
+Alakazam,brown,1,kanto,psychic,
+Alakazam ♀,brown,4,kanto,psychic,
+Mega Alakazam,brown,6,kalos,psychic,
+Machop,gray,1,kanto,fighting,
+Machoke,gray,1,kanto,fighting,
+Machamp,gray,1,kanto,fighting,
+Gigantamax Machamp,gray,8,galar,fighting,
+Bellsprout,green,1,kanto,grass,poison
+Weepinbell,green,1,kanto,grass,poison
+Victreebel,green,1,kanto,grass,poison
+Tentacool,blue,1,kanto,water,poison
+Tentacruel,blue,1,kanto,water,poison
+Geodude,brown,1,kanto,rock,ground
+Alolan Geodude,gray,7,alola,rock,electric
+Graveler,brown,1,kanto,rock,ground
+Alolan Graveler,gray,7,alola,rock,electric
+Golem,brown,1,kanto,rock,ground
+Alolan Golem,gray,7,alola,rock,electric
+Ponyta,yellow,1,kanto,fire,
+Galarian Ponyta,white,8,galar,psychic,
+Rapidash,yellow,1,kanto,fire,
+Galarian Rapidash,white,8,galar,psychic,fairy
+Slowpoke,pink,1,kanto,water,psychic
+Galarian Slowpoke,pink,8,galar,psychic,
+Slowbro,pink,1,kanto,water,psychic
+Mega Slowbro,pink,6,kalos,water,psychic
+Galarian Slowbro,pink,8,galar,poison,psychic
+Magnemite,gray,1,kanto,electric,steel
+Magneton,gray,1,kanto,electric,steel
+Farfetch’d,brown,1,kanto,normal,flying
+Galarian Farfetch’d,brown,8,galar,fighting,
+Doduo,brown,1,kanto,normal,flying
+Doduo ♀,brown,4,kanto,normal,flying
+Dodrio,brown,1,kanto,normal,flying
+Dodrio ♀,brown,4,kanto,normal,flying
+Seel,white,1,kanto,water,
+Dewgong,white,1,kanto,water,ice
+Grimer,purple,1,kanto,poison,
+Alolan Grimer,green,7,alola,poison,dark
+Muk,purple,1,kanto,poison,
+Alolan Muk,green,7,alola,poison,dark
+Shellder,purple,1,kanto,water,
+Cloyster,purple,1,kanto,water,ice
+Gastly,purple,1,kanto,ghost,poison
+Haunter,purple,1,kanto,ghost,poison
+Gengar,purple,1,kanto,ghost,poison
+Mega Gengar,purple,6,kalos,ghost,poison
+Gigantamax Gengar,purple,8,galar,ghost,poison
+Onix,gray,1,kanto,rock,ground
+Drowzee,yellow,1,kanto,psychic,
+Hypno,yellow,1,kanto,psychic,
+Hypno ♀,yellow,4,kanto,psychic,
+Krabby,red,1,kanto,water,
+Kingler,red,1,kanto,water,
+Gigantamax Kingler,red,8,galar,water,
+Voltorb,red,1,kanto,electric,
+Hisuian Voltorb,red,8,hisui,electric,grass
+Electrode,red,1,kanto,electric,
+Hisuian Electrode,red,8,hisui,electric,grass
+Exeggcute,pink,1,kanto,grass,psychic
+Exeggutor,yellow,1,kanto,grass,psychic
+Alolan Exeggutor,yellow,7,alola,grass,dragon
+Cubone,brown,1,kanto,ground,
+Marowak,brown,1,kanto,ground,
+Alolan Marowak,purple,7,alola,fire,ghost
+Hitmonlee,brown,1,kanto,fighting,
+Hitmonchan,brown,1,kanto,fighting,
+Lickitung,pink,1,kanto,normal,
+Koffing,purple,1,kanto,poison,
+Weezing,purple,1,kanto,poison,
+Galarian Weezing,gray,8,galar,poison,fairy
+Rhyhorn,gray,1,kanto,ground,rock
+Rhyhorn ♀,gray,4,kanto,ground,rock
+Rhydon,gray,1,kanto,ground,rock
+Rhydon ♀,gray,4,kanto,ground,rock
+Chansey,pink,1,kanto,normal,
+Tangela,blue,1,kanto,grass,
+Kangaskhan,brown,1,kanto,normal,
+Mega Kangaskhan,brown,6,kalos,normal,
+Horsea,blue,1,kanto,water,
+Seadra,blue,1,kanto,water,
+Goldeen,red,1,kanto,water,
+Goldeen ♀,red,4,kanto,water,
+Seaking,red,1,kanto,water,
+Seaking ♀,red,4,kanto,water,
+Staryu,brown,1,kanto,water,
+Starmie,purple,1,kanto,water,psychic
+Mr. Mime,pink,1,kanto,psychic,fairy
+Galarian Mr. Mime,white,8,galar,ice,psychic
+Scyther,green,1,kanto,bug,flying
+Scyther ♀,green,4,kanto,bug,flying
+Jynx,red,1,kanto,ice,psychic
+Electabuzz,yellow,1,kanto,electric,
+Magmar,red,1,kanto,fire,
+Pinsir,brown,1,kanto,bug,
+Mega Pinsir,brown,6,kalos,bug,flying
+Tauros,brown,1,kanto,normal,
+Paldean Tauros,black,9,paldea,fighting,
+Paldean Tauros - Blaze Breed,black,9,paldea,fighting,fire
+Paldean Tauros - Aqua Breed,black,9,paldea,fighting,water
+Magikarp,red,1,kanto,water,
+Magikarp ♀,red,4,kanto,water,
+Gyarados,blue,1,kanto,water,flying
+Gyarados ♀,blue,4,kanto,water,flying
+Mega Gyarados,blue,6,kalos,water,dark
+Lapras,blue,1,kanto,water,ice
+Gigantamax Lapras,blue,8,galar,water,ice
+Ditto,purple,1,kanto,normal,
+Eevee,brown,1,kanto,normal,
+Eevee ♀,brown,7,kanto,normal,
+Gigantamax Eevee,brown,8,galar,normal,
+Vaporeon,blue,1,kanto,water,
+Jolteon,yellow,1,kanto,electric,
+Flareon,red,1,kanto,fire,
+Porygon,pink,1,kanto,normal,
+Omanyte,blue,1,kanto,rock,water
+Omastar,blue,1,kanto,rock,water
+Kabuto,brown,1,kanto,rock,water
+Kabutops,brown,1,kanto,rock,water
+Aerodactyl,purple,1,kanto,rock,flying
+Mega Aerodactyl,purple,6,kalos,rock,flying
+Snorlax,black,1,kanto,normal,
+Gigantamax Snorlax,black,8,galar,normal,
+Articuno,blue,1,kanto,ice,flying
+Galarian Articuno,purple,8,galar,psychic,flying
+Zapdos,yellow,1,kanto,electric,flying
+Galarian Zapdos,yellow,8,galar,fighting,flying
+Moltres,yellow,1,kanto,fire,flying
+Galarian Moltres,red,8,galar,dark,flying
+Dratini,blue,1,kanto,dragon,
+Dragonair,blue,1,kanto,dragon,
+Dragonite,brown,1,kanto,dragon,flying
+Mewtwo,purple,1,kanto,psychic,
+Mega Mewtwo X,purple,6,kalos,psychic,fighting
+Mega Mewtwo Y,purple,6,kalos,psychic,
+Mew,pink,1,kanto,psychic,
+Chikorita,green,2,johto,grass,
+Bayleef,green,2,johto,grass,
+Meganium,green,2,johto,grass,
+Meganium ♀,green,4,johto,grass,
+Cyndaquil,yellow,2,johto,fire,
+Quilava,yellow,2,johto,fire,
+Typhlosion,yellow,2,johto,fire,
+Hisuian Typhlosion,yellow,8,hisui,fire,ghost
+Totodile,blue,2,johto,water,
+Croconaw,blue,2,johto,water,
+Feraligatr,blue,2,johto,water,
+Sentret,brown,2,johto,normal,
+Furret,brown,2,johto,normal,
+Hoothoot,brown,2,johto,normal,flying
+Noctowl,brown,2,johto,normal,flying
+Ledyba,red,2,johto,bug,flying
+Ledyba ♀,red,4,johto,bug,flying
+Ledian,red,2,johto,bug,flying
+Ledian ♀,red,4,johto,bug,flying
+Spinarak,green,2,johto,bug,poison
+Ariados,red,2,johto,bug,poison
+Crobat,purple,2,johto,poison,flying
+Chinchou,blue,2,johto,water,electric
+Lanturn,blue,2,johto,water,electric
+Pichu,yellow,2,johto,electric,
+Cleffa,pink,2,johto,fairy,
+Igglybuff,pink,2,johto,normal,fairy
+Togepi,white,2,johto,fairy,
+Togetic,white,2,johto,fairy,flying
+Natu,green,2,johto,psychic,flying
+Xatu,green,2,johto,psychic,flying
+Xatu ♀,green,4,johto,psychic,flying
+Mareep,white,2,johto,electric,
+Flaaffy,pink,2,johto,electric,
+Ampharos,yellow,2,johto,electric,
+Mega Ampharos,yellow,6,kalos,electric,dragon
+Bellossom,green,2,johto,grass,
+Marill,blue,2,johto,water,fairy
+Azumarill,blue,2,johto,water,fairy
+Sudowoodo,brown,2,johto,rock,
+Sudowoodo ♀,brown,4,johto,rock,
+Politoed,green,2,johto,water,
+Politoed ♀,green,4,johto,water,
+Hoppip,pink,2,johto,grass,flying
+Skiploom,green,2,johto,grass,flying
+Jumpluff,blue,2,johto,grass,flying
+Aipom,purple,2,johto,normal,
+Aipom ♀,purple,4,johto,normal,
+Sunkern,yellow,2,johto,grass,
+Sunflora,yellow,2,johto,grass,
+Yanma,red,2,johto,bug,flying
+Wooper,blue,2,johto,water,ground
+Wooper ♀,blue,4,johto,water,ground
+Paldean Wooper,brown,9,paldea,poison,ground
+Quagsire,blue,2,johto,water,ground
+Quagsire ♀,blue,4,johto,water,ground
+Espeon,purple,2,johto,psychic,
+Umbreon,black,2,johto,dark,
+Murkrow,black,2,johto,dark,flying
+Murkrow ♀,black,4,johto,dark,flying
+Slowking,pink,2,johto,water,psychic
+Galarian Slowking,pink,8,galar,poison,psychic
+Misdreavus,gray,2,johto,ghost,
+Unown,black,2,johto,psychic,
+Unown (B),black,2,johto,psychic,
+Unown (C),black,2,johto,psychic,
+Unown (D),black,2,johto,psychic,
+Unown (E),black,2,johto,psychic,
+Unown (F),black,2,johto,psychic,
+Unown (G),black,2,johto,psychic,
+Unown (H),black,2,johto,psychic,
+Unown (I),black,2,johto,psychic,
+Unown (J),black,2,johto,psychic,
+Unown (K),black,2,johto,psychic,
+Unown (L),black,2,johto,psychic,
+Unown (M),black,2,johto,psychic,
+Unown (N),black,2,johto,psychic,
+Unown (O),black,2,johto,psychic,
+Unown (P),black,2,johto,psychic,
+Unown (Q),black,2,johto,psychic,
+Unown (R),black,2,johto,psychic,
+Unown (S),black,2,johto,psychic,
+Unown (T),black,2,johto,psychic,
+Unown (U),black,2,johto,psychic,
+Unown (V),black,2,johto,psychic,
+Unown (W),black,2,johto,psychic,
+Unown (X),black,2,johto,psychic,
+Unown (Y),black,2,johto,psychic,
+Unown (Z),black,2,johto,psychic,
+Unown (Exclamation),black,3,johto,psychic,
+Unown (Question),black,3,johto,psychic,
+Wobbuffet,blue,2,johto,psychic,
+Wobbuffet ♀,blue,4,johto,psychic,
+Girafarig,yellow,2,johto,normal,psychic
+Girafarig ♀,yellow,4,johto,normal,psychic
+Pineco,gray,2,johto,bug,
+Forretress,purple,2,johto,bug,steel
+Dunsparce,yellow,2,johto,normal,
+Gligar,purple,2,johto,ground,flying
+Gligar ♀,purple,4,johto,ground,flying
+Steelix,gray,2,johto,steel,ground
+Steelix ♀,gray,4,johto,steel,ground
+Mega Steelix,gray,6,kalos,steel,ground
+Snubbull,pink,2,johto,fairy,
+Granbull,purple,2,johto,fairy,
+Qwilfish,gray,2,johto,water,poison
+Hisuian Qwilfish,black,8,hisui,dark,poison
+Scizor,red,2,johto,bug,steel
+Scizor ♀,red,4,johto,bug,steel
+Mega Scizor,red,6,kalos,bug,steel
+Shuckle,yellow,2,johto,bug,rock
+Heracross,blue,2,johto,bug,fighting
+Heracross ♀,blue,4,johto,bug,fighting
+Mega Heracross,blue,6,kalos,bug,fighting
+Sneasel,black,2,johto,dark,ice
+Sneasel ♀,black,4,johto,dark,ice
+Hisuian Sneasel,gray,8,hisui,fighting,poison
+Hisuian Sneasel ♀,gray,8,hisui,fighting,poison
+Teddiursa,brown,2,johto,normal,
+Ursaring,brown,2,johto,normal,
+Ursaring ♀,brown,4,johto,normal,
+Slugma,red,2,johto,fire,
+Magcargo,red,2,johto,fire,rock
+Swinub,brown,2,johto,ice,ground
+Piloswine,brown,2,johto,ice,ground
+Piloswine ♀,brown,4,johto,ice,ground
+Corsola,pink,2,johto,water,rock
+Galarian Corsola,white,8,galar,ghost,
+Remoraid,gray,2,johto,water,
+Octillery,red,2,johto,water,
+Octillery ♀,red,4,johto,water,
+Delibird,red,2,johto,ice,flying
+Mantine,purple,2,johto,water,flying
+Skarmory,gray,2,johto,steel,flying
+Houndour,black,2,johto,dark,fire
+Houndoom,black,2,johto,dark,fire
+Houndoom ♀,black,4,johto,dark,fire
+Mega Houndoom,black,6,kalos,dark,fire
+Kingdra,blue,2,johto,water,dragon
+Phanpy,blue,2,johto,ground,
+Donphan,gray,2,johto,ground,
+Donphan ♀,gray,4,johto,ground,
+Porygon2,red,2,johto,normal,
+Stantler,brown,2,johto,normal,
+Smeargle,white,2,johto,normal,
+Tyrogue,purple,2,johto,fighting,
+Hitmontop,brown,2,johto,fighting,
+Smoochum,pink,2,johto,ice,psychic
+Elekid,yellow,2,johto,electric,
+Magby,red,2,johto,fire,
+Miltank,pink,2,johto,normal,
+Blissey,pink,2,johto,normal,
+Raikou,yellow,2,johto,electric,
+Entei,brown,2,johto,fire,
+Suicune,blue,2,johto,water,
+Larvitar,green,2,johto,rock,ground
+Pupitar,gray,2,johto,rock,ground
+Tyranitar,green,2,johto,rock,dark
+Mega Tyranitar,green,6,kalos,rock,dark
+Lugia,white,2,johto,psychic,flying
+Ho-Oh,red,2,johto,fire,flying
+Celebi,green,2,johto,psychic,grass
+Treecko,green,3,hoenn,grass,
+Grovyle,green,3,hoenn,grass,
+Sceptile,green,3,hoenn,grass,
+Mega Sceptile,green,6,kalos,grass,dragon
+Torchic,red,3,hoenn,fire,
+Torchic ♀,red,4,hoenn,fire,
+Combusken,red,3,hoenn,fire,fighting
+Combusken ♀,red,4,hoenn,fire,fighting
+Blaziken,red,3,hoenn,fire,fighting
+Blaziken ♀,red,4,hoenn,fire,fighting
+Mega Blaziken,red,6,kalos,fire,fighting
+Mudkip,blue,3,hoenn,water,
+Marshtomp,blue,3,hoenn,water,ground
+Swampert,blue,3,hoenn,water,ground
+Mega Swampert,blue,6,kalos,water,ground
+Poochyena,gray,3,hoenn,dark,
+Mightyena,gray,3,hoenn,dark,
+Zigzagoon,brown,3,hoenn,normal,
+Galarian Zigzagoon,white,8,galar,dark,normal
+Linoone,white,3,hoenn,normal,
+Galarian Linoone,white,8,galar,dark,normal
+Wurmple,red,3,hoenn,bug,
+Silcoon,white,3,hoenn,bug,
+Beautifly,yellow,3,hoenn,bug,flying
+Beautifly ♀,yellow,4,hoenn,bug,flying
+Cascoon,purple,3,hoenn,bug,
+Dustox,green,3,hoenn,bug,poison
+Dustox ♀,green,4,hoenn,bug,poison
+Lotad,green,3,hoenn,water,grass
+Lombre,green,3,hoenn,water,grass
+Ludicolo,green,3,hoenn,water,grass
+Ludicolo ♀,green,4,hoenn,water,grass
+Seedot,brown,3,hoenn,grass,
+Nuzleaf,brown,3,hoenn,grass,dark
+Nuzleaf ♀,brown,4,hoenn,grass,dark
+Shiftry,brown,3,hoenn,grass,dark
+Shiftry ♀,brown,4,hoenn,grass,dark
+Taillow,blue,3,hoenn,normal,flying
+Swellow,blue,3,hoenn,normal,flying
+Wingull,white,3,hoenn,water,flying
+Pelipper,yellow,3,hoenn,water,flying
+Ralts,white,3,hoenn,psychic,fairy
+Kirlia,white,3,hoenn,psychic,fairy
+Gardevoir,white,3,hoenn,psychic,fairy
+Mega Gardevoir,white,6,kalos,psychic,fairy
+Surskit,blue,3,hoenn,bug,water
+Masquerain,blue,3,hoenn,bug,flying
+Shroomish,brown,3,hoenn,grass,
+Breloom,green,3,hoenn,grass,fighting
+Slakoth,brown,3,hoenn,normal,
+Vigoroth,white,3,hoenn,normal,
+Slaking,brown,3,hoenn,normal,
+Nincada,gray,3,hoenn,bug,ground
+Ninjask,yellow,3,hoenn,bug,flying
+Shedinja,brown,3,hoenn,bug,ghost
+Whismur,pink,3,hoenn,normal,
+Loudred,blue,3,hoenn,normal,
+Exploud,blue,3,hoenn,normal,
+Makuhita,yellow,3,hoenn,fighting,
+Hariyama,brown,3,hoenn,fighting,
+Azurill,blue,3,hoenn,normal,fairy
+Nosepass,gray,3,hoenn,rock,
+Skitty,pink,3,hoenn,normal,
+Delcatty,purple,3,hoenn,normal,
+Sableye,purple,3,hoenn,dark,ghost
+Mega Sableye,purple,6,kalos,dark,ghost
+Mawile,black,3,hoenn,steel,fairy
+Mega Mawile,black,6,kalos,steel,fairy
+Aron,gray,3,hoenn,steel,rock
+Lairon,gray,3,hoenn,steel,rock
+Aggron,gray,3,hoenn,steel,rock
+Mega Aggron,gray,6,kalos,steel,
+Meditite,blue,3,hoenn,fighting,psychic
+Meditite ♀,blue,4,hoenn,fighting,psychic
+Medicham,red,3,hoenn,fighting,psychic
+Medicham ♀,red,4,hoenn,fighting,psychic
+Mega Medicham,red,6,kalos,fighting,psychic
+Electrike,green,3,hoenn,electric,
+Manectric,yellow,3,hoenn,electric,
+Mega Manectric,yellow,6,kalos,electric,
+Plusle,yellow,3,hoenn,electric,
+Minun,yellow,3,hoenn,electric,
+Volbeat,gray,3,hoenn,bug,
+Illumise,purple,3,hoenn,bug,
+Roselia,green,3,hoenn,grass,poison
+Roselia ♀,green,4,hoenn,grass,poison
+Gulpin,green,3,hoenn,poison,
+Gulpin ♀,green,4,hoenn,poison,
+Swalot,purple,3,hoenn,poison,
+Swalot ♀,purple,4,hoenn,poison,
+Carvanha,red,3,hoenn,water,dark
+Sharpedo,blue,3,hoenn,water,dark
+Mega Sharpedo,blue,6,kalos,water,dark
+Wailmer,blue,3,hoenn,water,
+Wailord,blue,3,hoenn,water,
+Numel,yellow,3,hoenn,fire,ground
+Numel ♀,yellow,4,hoenn,fire,ground
+Camerupt,red,3,hoenn,fire,ground
+Camerupt ♀,red,4,hoenn,fire,ground
+Mega Camerupt,red,6,kalos,fire,ground
+Torkoal,brown,3,hoenn,fire,
+Spoink,black,3,hoenn,psychic,
+Grumpig,purple,3,hoenn,psychic,
+Spinda,brown,3,hoenn,normal,
+Trapinch,brown,3,hoenn,ground,
+Vibrava,green,3,hoenn,ground,dragon
+Flygon,green,3,hoenn,ground,dragon
+Cacnea,green,3,hoenn,grass,
+Cacturne,green,3,hoenn,grass,dark
+Cacturne ♀,green,4,hoenn,grass,dark
+Swablu,blue,3,hoenn,normal,flying
+Altaria,blue,3,hoenn,dragon,flying
+Mega Altaria,blue,6,kalos,dragon,fairy
+Zangoose,white,3,hoenn,normal,
+Seviper,black,3,hoenn,poison,
+Lunatone,yellow,3,hoenn,rock,psychic
+Solrock,red,3,hoenn,rock,psychic
+Barboach,gray,3,hoenn,water,ground
+Whiscash,blue,3,hoenn,water,ground
+Corphish,red,3,hoenn,water,
+Crawdaunt,red,3,hoenn,water,dark
+Baltoy,brown,3,hoenn,ground,psychic
+Claydol,black,3,hoenn,ground,psychic
+Lileep,purple,3,hoenn,rock,grass
+Cradily,green,3,hoenn,rock,grass
+Anorith,gray,3,hoenn,rock,bug
+Armaldo,gray,3,hoenn,rock,bug
+Feebas,brown,3,hoenn,water,
+Milotic,pink,3,hoenn,water,
+Milotic ♀,pink,4,hoenn,water,
+Castform,gray,3,hoenn,normal,
+Castform Sunny Form,red,3,hoenn,fire,
+Castform Rainy Form,blue,3,hoenn,water,
+Castform Snowy Form,white,3,hoenn,ice,
+Kecleon,green,3,hoenn,normal,
+Shuppet,black,3,hoenn,ghost,
+Banette,black,3,hoenn,ghost,
+Mega Banette,black,6,kalos,ghost,
+Duskull,black,3,hoenn,ghost,
+Dusclops,black,3,hoenn,ghost,
+Tropius,green,3,hoenn,grass,flying
+Chimecho,blue,3,hoenn,psychic,
+Absol,white,3,hoenn,dark,
+Mega Absol,white,6,kalos,dark,
+Wynaut,blue,3,hoenn,psychic,
+Snorunt,gray,3,hoenn,ice,
+Glalie,gray,3,hoenn,ice,
+Mega Glalie,gray,6,kalos,ice,
+Spheal,blue,3,hoenn,ice,water
+Sealeo,blue,3,hoenn,ice,water
+Walrein,blue,3,hoenn,ice,water
+Clamperl,blue,3,hoenn,water,
+Huntail,blue,3,hoenn,water,
+Gorebyss,pink,3,hoenn,water,
+Relicanth,gray,3,hoenn,water,rock
+Relicanth ♀,gray,4,hoenn,water,rock
+Luvdisc,pink,3,hoenn,water,
+Bagon,blue,3,hoenn,dragon,
+Shelgon,white,3,hoenn,dragon,
+Salamence,blue,3,hoenn,dragon,flying
+Mega Salamence,blue,6,kalos,dragon,flying
+Beldum,blue,3,hoenn,steel,psychic
+Metang,blue,3,hoenn,steel,psychic
+Metagross,blue,3,hoenn,steel,psychic
+Mega Metagross,blue,6,kalos,steel,psychic
+Regirock,brown,3,hoenn,rock,
+Regice,blue,3,hoenn,ice,
+Registeel,gray,3,hoenn,steel,
+Latias,red,3,hoenn,dragon,psychic
+Mega Latias,purple,6,kalos,dragon,psychic
+Latios,blue,3,hoenn,dragon,psychic
+Mega Latios,purple,6,kalos,dragon,psychic
+Kyogre,blue,3,hoenn,water,
+Kyogre Primal Reversion,blue,6,kalos,water,
+Groudon,red,3,hoenn,ground,
+Groudon Primal Reversion,red,6,kalos,ground,fire
+Rayquaza,green,3,hoenn,dragon,flying
+Mega Rayquaza,green,6,kalos,dragon,flying
+Jirachi,yellow,3,hoenn,steel,psychic
+Deoxys,red,3,hoenn,psychic,
+Deoxys Attack Forme,red,3,hoenn,psychic,
+Deoxys Defense Forme,red,3,hoenn,psychic,
+Deoxys Speed Forme,red,3,hoenn,psychic,
+Turtwig,green,4,sinnoh,grass,
+Grotle,green,4,sinnoh,grass,
+Torterra,green,4,sinnoh,grass,ground
+Chimchar,brown,4,sinnoh,fire,
+Monferno,brown,4,sinnoh,fire,fighting
+Infernape,brown,4,sinnoh,fire,fighting
+Piplup,blue,4,sinnoh,water,
+Prinplup,blue,4,sinnoh,water,
+Empoleon,blue,4,sinnoh,water,steel
+Starly,brown,4,sinnoh,normal,flying
+Starly ♀,brown,4,sinnoh,normal,flying
+Staravia,brown,4,sinnoh,normal,flying
+Staravia ♀,brown,4,sinnoh,normal,flying
+Staraptor,brown,4,sinnoh,normal,flying
+Staraptor ♀,brown,4,sinnoh,normal,flying
+Bidoof,brown,4,sinnoh,normal,
+Bidoof ♀,brown,4,sinnoh,normal,
+Bibarel,brown,4,sinnoh,normal,water
+Bibarel ♀,brown,4,sinnoh,normal,water
+Kricketot,red,4,sinnoh,bug,
+Kricketot ♀,red,4,sinnoh,bug,
+Kricketune,red,4,sinnoh,bug,
+Kricketune ♀,red,4,sinnoh,bug,
+Shinx,blue,4,sinnoh,electric,
+Shinx ♀,blue,4,sinnoh,electric,
+Luxio,blue,4,sinnoh,electric,
+Luxio ♀,blue,4,sinnoh,electric,
+Luxray,blue,4,sinnoh,electric,
+Luxray ♀,blue,4,sinnoh,electric,
+Budew,green,4,sinnoh,grass,poison
+Roserade,green,4,sinnoh,grass,poison
+Roserade ♀,green,4,sinnoh,grass,poison
+Cranidos,blue,4,sinnoh,rock,
+Rampardos,blue,4,sinnoh,rock,
+Shieldon,gray,4,sinnoh,rock,steel
+Bastiodon,gray,4,sinnoh,rock,steel
+Burmy,green,4,sinnoh,bug,
+Burmy Sandy Cloak,green,4,sinnoh,bug,
+Burmy Trash Cloak,green,4,sinnoh,bug,
+Wormadam,green,4,sinnoh,bug,grass
+Wormadam Sandy Cloak,brown,4,sinnoh,bug,ground
+Wormadam Trash Cloak,red,4,sinnoh,bug,steel
+Mothim,yellow,4,sinnoh,bug,flying
+Combee,yellow,4,sinnoh,bug,flying
+Combee ♀,yellow,4,sinnoh,bug,flying
+Vespiquen,yellow,4,sinnoh,bug,flying
+Pachirisu,white,4,sinnoh,electric,
+Pachirisu ♀,white,4,sinnoh,electric,
+Buizel,brown,4,sinnoh,water,
+Buizel ♀,brown,4,sinnoh,water,
+Floatzel,brown,4,sinnoh,water,
+Floatzel ♀,brown,4,sinnoh,water,
+Cherubi,pink,4,sinnoh,grass,
+Cherrim,purple,4,sinnoh,grass,
+Cherrim Sunshine Form,pink,4,sinnoh,grass,
+Shellos,purple,4,sinnoh,water,
+Shellos East Sea,purple,4,sinnoh,water,
+Gastrodon,purple,4,sinnoh,water,ground
+Gastrodon East Sea,purple,4,sinnoh,water,ground
+Ambipom,purple,4,sinnoh,normal,
+Ambipom ♀,purple,4,sinnoh,normal,
+Drifloon,purple,4,sinnoh,ghost,flying
+Drifblim,purple,4,sinnoh,ghost,flying
+Buneary,brown,4,sinnoh,normal,
+Lopunny,brown,4,sinnoh,normal,
+Mega Lopunny,brown,6,kalos,normal,fighting
+Mismagius,purple,4,sinnoh,ghost,
+Honchkrow,black,4,sinnoh,dark,flying
+Glameow,gray,4,sinnoh,normal,
+Purugly,gray,4,sinnoh,normal,
+Chingling,yellow,4,sinnoh,psychic,
+Stunky,purple,4,sinnoh,poison,dark
+Skuntank,purple,4,sinnoh,poison,dark
+Bronzor,green,4,sinnoh,steel,psychic
+Bronzong,green,4,sinnoh,steel,psychic
+Bonsly,brown,4,sinnoh,rock,
+Mime Jr.,pink,4,sinnoh,psychic,fairy
+Happiny,pink,4,sinnoh,normal,
+Chatot,black,4,sinnoh,normal,flying
+Spiritomb,purple,4,sinnoh,ghost,dark
+Gible,blue,4,sinnoh,dragon,ground
+Gible ♀,blue,4,sinnoh,dragon,ground
+Gabite,blue,4,sinnoh,dragon,ground
+Gabite ♀,blue,4,sinnoh,dragon,ground
+Garchomp,blue,4,sinnoh,dragon,ground
+Garchomp ♀,blue,4,sinnoh,dragon,ground
+Mega Garchomp,blue,6,kalos,dragon,ground
+Munchlax,black,4,sinnoh,normal,
+Riolu,blue,4,sinnoh,fighting,
+Lucario,blue,4,sinnoh,fighting,steel
+Mega Lucario,blue,6,kalos,fighting,steel
+Hippopotas,brown,4,sinnoh,ground,
+Hippopotas ♀,brown,4,sinnoh,ground,
+Hippowdon,brown,4,sinnoh,ground,
+Hippowdon ♀,brown,4,sinnoh,ground,
+Skorupi,purple,4,sinnoh,poison,bug
+Drapion,purple,4,sinnoh,poison,dark
+Croagunk,blue,4,sinnoh,poison,fighting
+Croagunk ♀,blue,4,sinnoh,poison,fighting
+Toxicroak,blue,4,sinnoh,poison,fighting
+Toxicroak ♀,blue,4,sinnoh,poison,fighting
+Carnivine,green,4,sinnoh,grass,
+Finneon,blue,4,sinnoh,water,
+Finneon ♀,blue,4,sinnoh,water,
+Lumineon,blue,4,sinnoh,water,
+Lumineon ♀,blue,4,sinnoh,water,
+Mantyke,blue,4,sinnoh,water,flying
+Snover,white,4,sinnoh,grass,ice
+Snover ♀,white,4,sinnoh,grass,ice
+Abomasnow,white,4,sinnoh,grass,ice
+Abomasnow ♀,white,4,sinnoh,grass,ice
+Mega Abomasnow,white,6,kalos,grass,ice
+Weavile,black,4,sinnoh,dark,ice
+Weavile ♀,black,4,sinnoh,dark,ice
+Magnezone,gray,4,sinnoh,electric,steel
+Lickilicky,pink,4,sinnoh,normal,
+Rhyperior,gray,4,sinnoh,ground,rock
+Rhyperior ♀,gray,4,sinnoh,ground,rock
+Tangrowth,blue,4,sinnoh,grass,
+Tangrowth ♀,blue,4,sinnoh,grass,
+Electivire,yellow,4,sinnoh,electric,
+Magmortar,red,4,sinnoh,fire,
+Togekiss,white,4,sinnoh,fairy,flying
+Yanmega,green,4,sinnoh,bug,flying
+Leafeon,green,4,sinnoh,grass,
+Glaceon,blue,4,sinnoh,ice,
+Gliscor,purple,4,sinnoh,ground,flying
+Mamoswine,brown,4,sinnoh,ice,ground
+Mamoswine ♀,brown,4,sinnoh,ice,ground
+Porygon-Z,red,4,sinnoh,normal,
+Gallade,white,4,sinnoh,psychic,fighting
+Mega Gallade,white,6,kalos,psychic,fighting
+Probopass,gray,4,sinnoh,rock,steel
+Dusknoir,black,4,sinnoh,ghost,
+Froslass,white,4,sinnoh,ice,ghost
+Rotom,red,4,sinnoh,electric,ghost
+Heat Rotom,red,4,sinnoh,electric,fire
+Wash Rotom,red,4,sinnoh,electric,water
+Frost Rotom,red,4,sinnoh,electric,ice
+Fan Rotom,red,4,sinnoh,electric,flying
+Mow Rotom,red,4,sinnoh,electric,grass
+Uxie,yellow,4,sinnoh,psychic,
+Mesprit,pink,4,sinnoh,psychic,
+Azelf,blue,4,sinnoh,psychic,
+Dialga,white,4,sinnoh,steel,dragon
+Dialga Origin Forme,white,8,hisui,steel,dragon
+Palkia,purple,4,sinnoh,water,dragon
+Palkia Origin Forme,purple,8,hisui,water,dragon
+Heatran,brown,4,sinnoh,fire,steel
+Regigigas,white,4,sinnoh,normal,
+Giratina,black,4,sinnoh,ghost,dragon
+Giratina Origin Forme,black,4,sinnoh,ghost,dragon
+Cresselia,yellow,4,sinnoh,psychic,
+Phione,blue,4,sinnoh,water,
+Manaphy,blue,4,sinnoh,water,
+Darkrai,black,4,sinnoh,dark,
+Shaymin,green,4,sinnoh,grass,
+Shaymin Sky Forme,green,4,sinnoh,grass,flying
+Arceus,white,4,sinnoh,normal,
+Arceus (Fighting),white,4,sinnoh,fighting,
+Arceus (Flying),white,4,sinnoh,flying,
+Arceus (Poison),white,4,sinnoh,poison,
+Arceus (Ground),white,4,sinnoh,ground,
+Arceus (Rock),white,4,sinnoh,rock,
+Arceus (Bug),white,4,sinnoh,bug,
+Arceus (Ghost),white,4,sinnoh,ghost,
+Arceus (Steel),white,4,sinnoh,steel,
+Arceus (Fire),white,4,sinnoh,fire,
+Arceus (Water),white,4,sinnoh,water,
+Arceus (Grass),white,4,sinnoh,grass,
+Arceus (Electric),white,4,sinnoh,electric,
+Arceus (Psychic),white,4,sinnoh,psychic,
+Arceus (Ice),white,4,sinnoh,ice,
+Arceus (Dragon),white,4,sinnoh,dragon,
+Arceus (Dark),white,4,sinnoh,dark,
+Arceus (Fairy),white,6,kalos,fairy,
+Arceus (Legendary Plate),white,8,hisui,normal,
+Victini,yellow,5,unova,psychic,fire
+Snivy,green,5,unova,grass,
+Servine,green,5,unova,grass,
+Serperior,green,5,unova,grass,
+Tepig,red,5,unova,fire,
+Pignite,red,5,unova,fire,fighting
+Emboar,red,5,unova,fire,fighting
+Oshawott,blue,5,unova,water,
+Dewott,blue,5,unova,water,
+Samurott,blue,5,unova,water,
+Hisuian Samurott,blue,8,hisui,water,dark
+Patrat,brown,5,unova,normal,
+Watchog,brown,5,unova,normal,
+Lillipup,brown,5,unova,normal,
+Herdier,gray,5,unova,normal,
+Stoutland,gray,5,unova,normal,
+Purrloin,purple,5,unova,dark,
+Liepard,purple,5,unova,dark,
+Pansage,green,5,unova,grass,
+Simisage,green,5,unova,grass,
+Pansear,red,5,unova,fire,
+Simisear,red,5,unova,fire,
+Panpour,blue,5,unova,water,
+Simipour,blue,5,unova,water,
+Munna,pink,5,unova,psychic,
+Musharna,pink,5,unova,psychic,
+Pidove,gray,5,unova,normal,flying
+Tranquill,gray,5,unova,normal,flying
+Unfezant,gray,5,unova,normal,flying
+Unfezant ♀,gray,5,unova,normal,flying
+Blitzle,black,5,unova,electric,
+Zebstrika,black,5,unova,electric,
+Roggenrola,blue,5,unova,rock,
+Boldore,blue,5,unova,rock,
+Gigalith,blue,5,unova,rock,
+Woobat,blue,5,unova,psychic,flying
+Swoobat,blue,5,unova,psychic,flying
+Drilbur,gray,5,unova,ground,
+Excadrill,gray,5,unova,ground,steel
+Audino,pink,5,unova,normal,
+Mega Audino,white,6,kalos,normal,fairy
+Timburr,gray,5,unova,fighting,
+Gurdurr,gray,5,unova,fighting,
+Conkeldurr,brown,5,unova,fighting,
+Tympole,blue,5,unova,water,
+Palpitoad,blue,5,unova,water,ground
+Seismitoad,blue,5,unova,water,ground
+Throh,red,5,unova,fighting,
+Sawk,blue,5,unova,fighting,
+Sewaddle,yellow,5,unova,bug,grass
+Swadloon,green,5,unova,bug,grass
+Leavanny,yellow,5,unova,bug,grass
+Venipede,red,5,unova,bug,poison
+Whirlipede,gray,5,unova,bug,poison
+Scolipede,red,5,unova,bug,poison
+Cottonee,green,5,unova,grass,fairy
+Whimsicott,green,5,unova,grass,fairy
+Petilil,green,5,unova,grass,
+Lilligant,green,5,unova,grass,
+Hisuian Lilligant,green,8,hisui,grass,fighting
+Basculin,green,5,unova,water,
+Basculin Blue-Striped Form,green,5,unova,water,
+Basculin White-Striped Form,green,8,hisui,water,
+Sandile,brown,5,unova,ground,dark
+Krokorok,brown,5,unova,ground,dark
+Krookodile,red,5,unova,ground,dark
+Darumaka,red,5,unova,fire,
+Galarian Darumaka,white,8,galar,ice,
+Darmanitan,red,5,unova,fire,
+Darmanitan Zen Mode,blue,5,unova,fire,psychic
+Galarian Darmanitan (Standard Mode),white,8,galar,ice,
+Galarian Darmanitan (Zen Mode),white,8,galar,ice,fire
+Maractus,green,5,unova,grass,
+Dwebble,red,5,unova,bug,rock
+Crustle,red,5,unova,bug,rock
+Scraggy,yellow,5,unova,dark,fighting
+Scrafty,red,5,unova,dark,fighting
+Sigilyph,black,5,unova,psychic,flying
+Yamask,black,5,unova,ghost,
+Galarian Yamask,black,8,galar,ground,ghost
+Cofagrigus,yellow,5,unova,ghost,
+Tirtouga,blue,5,unova,water,rock
+Carracosta,blue,5,unova,water,rock
+Archen,yellow,5,unova,rock,flying
+Archeops,yellow,5,unova,rock,flying
+Trubbish,green,5,unova,poison,
+Garbodor,green,5,unova,poison,
+Gigantamax Garbodor,green,8,galar,poison,
+Zorua,gray,5,unova,dark,
+Hisuian Zorua,gray,8,hisui,normal,ghost
+Zoroark,gray,5,unova,dark,
+Hisuian Zoroark,gray,8,hisui,normal,ghost
+Minccino,gray,5,unova,normal,
+Cinccino,gray,5,unova,normal,
+Gothita,purple,5,unova,psychic,
+Gothorita,purple,5,unova,psychic,
+Gothitelle,purple,5,unova,psychic,
+Solosis,green,5,unova,psychic,
+Duosion,green,5,unova,psychic,
+Reuniclus,green,5,unova,psychic,
+Ducklett,blue,5,unova,water,flying
+Swanna,white,5,unova,water,flying
+Vanillite,white,5,unova,ice,
+Vanillish,white,5,unova,ice,
+Vanilluxe,white,5,unova,ice,
+Deerling,pink,5,unova,normal,grass
+Deerling Summer Form,pink,5,unova,normal,grass
+Deerling Autumn Form,pink,5,unova,normal,grass
+Deerling Winter Form,pink,5,unova,normal,grass
+Sawsbuck,brown,5,unova,normal,grass
+Sawsbuck Summer Form,brown,5,unova,normal,grass
+Sawsbuck Autumn Form,brown,5,unova,normal,grass
+Sawsbuck Winter Form,brown,5,unova,normal,grass
+Emolga,white,5,unova,electric,flying
+Karrablast,blue,5,unova,bug,
+Escavalier,gray,5,unova,bug,steel
+Foongus,white,5,unova,grass,poison
+Amoonguss,white,5,unova,grass,poison
+Frillish,white,5,unova,water,ghost
+Frillish ♀,white,5,unova,water,ghost
+Jellicent,white,5,unova,water,ghost
+Jellicent ♀,white,5,unova,water,ghost
+Alomomola,pink,5,unova,water,
+Joltik,yellow,5,unova,bug,electric
+Galvantula,yellow,5,unova,bug,electric
+Ferroseed,gray,5,unova,grass,steel
+Ferrothorn,gray,5,unova,grass,steel
+Klink,gray,5,unova,steel,
+Klang,gray,5,unova,steel,
+Klinklang,gray,5,unova,steel,
+Tynamo,white,5,unova,electric,
+Eelektrik,blue,5,unova,electric,
+Eelektross,blue,5,unova,electric,
+Elgyem,blue,5,unova,psychic,
+Beheeyem,brown,5,unova,psychic,
+Litwick,white,5,unova,ghost,fire
+Lampent,black,5,unova,ghost,fire
+Chandelure,black,5,unova,ghost,fire
+Axew,green,5,unova,dragon,
+Fraxure,green,5,unova,dragon,
+Haxorus,yellow,5,unova,dragon,
+Cubchoo,white,5,unova,ice,
+Beartic,white,5,unova,ice,
+Cryogonal,blue,5,unova,ice,
+Shelmet,red,5,unova,bug,
+Accelgor,red,5,unova,bug,
+Stunfisk,brown,5,unova,ground,electric
+Galarian Stunfisk,green,8,galar,ground,steel
+Mienfoo,yellow,5,unova,fighting,
+Mienshao,purple,5,unova,fighting,
+Druddigon,red,5,unova,dragon,
+Golett,green,5,unova,ground,ghost
+Golurk,green,5,unova,ground,ghost
+Pawniard,red,5,unova,dark,steel
+Bisharp,red,5,unova,dark,steel
+Bouffalant,brown,5,unova,normal,
+Rufflet,white,5,unova,normal,flying
+Braviary,red,5,unova,normal,flying
+Hisuian Braviary,white,8,hisui,psychic,flying
+Vullaby,brown,5,unova,dark,flying
+Mandibuzz,brown,5,unova,dark,flying
+Heatmor,red,5,unova,fire,
+Durant,gray,5,unova,bug,steel
+Deino,blue,5,unova,dark,dragon
+Zweilous,blue,5,unova,dark,dragon
+Hydreigon,blue,5,unova,dark,dragon
+Larvesta,white,5,unova,bug,fire
+Volcarona,white,5,unova,bug,fire
+Cobalion,blue,5,unova,steel,fighting
+Terrakion,gray,5,unova,rock,fighting
+Virizion,green,5,unova,grass,fighting
+Tornadus,green,5,unova,flying,
+Tornadus Therian Forme,green,5,unova,flying,
+Thundurus,blue,5,unova,electric,flying
+Thundurus Therian Forme,blue,5,unova,electric,flying
+Reshiram,white,5,unova,dragon,fire
+Zekrom,black,5,unova,dragon,electric
+Landorus,brown,5,unova,ground,flying
+Landorus Therian Forme,brown,5,unova,ground,flying
+Kyurem,gray,5,unova,dragon,ice
+White Kyurem,gray,5,unova,dragon,ice
+Black Kyurem,gray,5,unova,dragon,ice
+Keldeo,yellow,5,unova,water,fighting
+Keldeo Resolute Form,yellow,5,unova,water,fighting
+Meloetta,white,5,unova,normal,psychic
+Meloetta Pirouette Forme,white,5,unova,normal,fighting
+Genesect,purple,5,unova,bug,steel
+Genesect (Douse Drive),purple,5,unova,bug,steel
+Genesect (Shock Drive),purple,5,unova,bug,steel
+Genesect (Burn Drive),purple,5,unova,bug,steel
+Genesect (Chill Drive),purple,5,unova,bug,steel
+Chespin,green,6,kalos,grass,
+Quilladin,green,6,kalos,grass,
+Chesnaught,green,6,kalos,grass,fighting
+Fennekin,red,6,kalos,fire,
+Braixen,red,6,kalos,fire,
+Delphox,red,6,kalos,fire,psychic
+Froakie,blue,6,kalos,water,
+Frogadier,blue,6,kalos,water,
+Greninja,blue,6,kalos,water,dark
+Greninja (Battle Bond Ability),blue,7,kalos,water,dark
+Ash-Greninja,blue,7,alola,water,dark
+Bunnelby,brown,6,kalos,normal,
+Diggersby,brown,6,kalos,normal,ground
+Fletchling,red,6,kalos,normal,flying
+Fletchinder,red,6,kalos,fire,flying
+Talonflame,red,6,kalos,fire,flying
+Scatterbug,black,6,kalos,bug,
+Spewpa,black,6,kalos,bug,
+Vivillon,white,6,kalos,bug,flying
+Vivillon Meadow Pattern,white,6,kalos,bug,flying
+Vivillon Polar Pattern,white,6,kalos,bug,flying
+Vivillon Tundra Pattern,white,6,kalos,bug,flying
+Vivillon Continental Pattern,white,6,kalos,bug,flying
+Vivillon Garden Pattern,white,6,kalos,bug,flying
+Vivillon Elegant Pattern,white,6,kalos,bug,flying
+Vivillon Modern Pattern,white,6,kalos,bug,flying
+Vivillon Marine Pattern,white,6,kalos,bug,flying
+Vivillon Archipelago Pattern,white,6,kalos,bug,flying
+Vivillon High Plains Pattern,white,6,kalos,bug,flying
+Vivillon Sandstorm Pattern,white,6,kalos,bug,flying
+Vivillon River Pattern,white,6,kalos,bug,flying
+Vivillon Monsoon Pattern,white,6,kalos,bug,flying
+Vivillon Savanna Pattern,white,6,kalos,bug,flying
+Vivillon Sun Pattern,white,6,kalos,bug,flying
+Vivillon Ocean Pattern,white,6,kalos,bug,flying
+Vivillon Jungle Pattern,white,6,kalos,bug,flying
+Vivillon Fancy Pattern,black,6,kalos,bug,flying
+Vivillon Poké Ball Pattern,black,6,kalos,bug,flying
+Litleo,brown,6,kalos,fire,normal
+Pyroar,brown,6,kalos,fire,normal
+Pyroar ♀,brown,6,kalos,fire,normal
+Flabébé,white,6,kalos,fairy,
+Flabébé Blue Flower,white,6,kalos,fairy,
+Flabébé Orange Flower,white,6,kalos,fairy,
+Flabébé White Flower,white,6,kalos,fairy,
+Flabébé Yellow Flower,white,6,kalos,fairy,
+Floette,white,6,kalos,fairy,
+Floette Blue Flower,white,6,kalos,fairy,
+Floette Orange Flower,white,6,kalos,fairy,
+Floette White Flower,white,6,kalos,fairy,
+Floette Yellow Flower,white,6,kalos,fairy,
+Florges,white,6,kalos,fairy,
+Florges Blue Flower,white,6,kalos,fairy,
+Florges Orange Flower,white,6,kalos,fairy,
+Florges White Flower,white,6,kalos,fairy,
+Florges Yellow Flower,white,6,kalos,fairy,
+Skiddo,brown,6,kalos,grass,
+Gogoat,brown,6,kalos,grass,
+Pancham,white,6,kalos,fighting,
+Pangoro,white,6,kalos,fighting,dark
+Furfrou,white,6,kalos,normal,
+Furfrou Heart Trim,white,6,kalos,normal,
+Furfrou Star Trim,white,6,kalos,normal,
+Furfrou Diamond Trim,white,6,kalos,normal,
+Furfrou Debutante Trim,white,6,kalos,normal,
+Furfrou Matron Trim,white,6,kalos,normal,
+Furfrou Dandy Trim,white,6,kalos,normal,
+Furfrou La Reine Trim,white,6,kalos,normal,
+Furfrou Kabuki Trim,white,6,kalos,normal,
+Furfrou Pharaoh Trim,white,6,kalos,normal,
+Espurr,gray,6,kalos,psychic,
+Meowstic,blue,6,kalos,psychic,
+Female Meowstic,blue,6,kalos,psychic,
+Honedge,brown,6,kalos,steel,ghost
+Doublade,brown,6,kalos,steel,ghost
+Aegislash,brown,6,kalos,steel,ghost
+Aegislash Blade Forme,brown,6,kalos,steel,ghost
+Spritzee,pink,6,kalos,fairy,
+Aromatisse,pink,6,kalos,fairy,
+Swirlix,white,6,kalos,fairy,
+Slurpuff,white,6,kalos,fairy,
+Inkay,blue,6,kalos,dark,psychic
+Malamar,blue,6,kalos,dark,psychic
+Binacle,brown,6,kalos,rock,water
+Barbaracle,brown,6,kalos,rock,water
+Skrelp,brown,6,kalos,poison,water
+Dragalge,brown,6,kalos,poison,dragon
+Clauncher,blue,6,kalos,water,
+Clawitzer,blue,6,kalos,water,
+Helioptile,yellow,6,kalos,electric,normal
+Heliolisk,yellow,6,kalos,electric,normal
+Tyrunt,brown,6,kalos,rock,dragon
+Tyrantrum,red,6,kalos,rock,dragon
+Amaura,blue,6,kalos,rock,ice
+Aurorus,blue,6,kalos,rock,ice
+Sylveon,pink,6,kalos,fairy,
+Hawlucha,green,6,kalos,fighting,flying
+Dedenne,yellow,6,kalos,electric,fairy
+Carbink,gray,6,kalos,rock,fairy
+Goomy,purple,6,kalos,dragon,
+Sliggoo,purple,6,kalos,dragon,
+Hisuian Sliggoo,purple,8,hisui,steel,dragon
+Goodra,purple,6,kalos,dragon,
+Hisuian Goodra,purple,8,hisui,steel,dragon
+Klefki,gray,6,kalos,steel,fairy
+Phantump,brown,6,kalos,ghost,grass
+Trevenant,brown,6,kalos,ghost,grass
+Pumpkaboo,brown,6,kalos,ghost,grass
+Pumpkaboo Small Size,brown,6,kalos,ghost,grass
+Pumpkaboo Large Size,brown,6,kalos,ghost,grass
+Pumpkaboo Super Size,brown,6,kalos,ghost,grass
+Gourgeist,brown,6,kalos,ghost,grass
+Gourgeist Small Size,brown,6,kalos,ghost,grass
+Gourgeist Large Size,brown,6,kalos,ghost,grass
+Gourgeist Super Size,brown,6,kalos,ghost,grass
+Bergmite,blue,6,kalos,ice,
+Avalugg,blue,6,kalos,ice,
+Hisuian Avalugg,blue,8,hisui,ice,rock
+Noibat,purple,6,kalos,flying,dragon
+Noivern,purple,6,kalos,flying,dragon
+Xerneas,blue,6,kalos,fairy,
+Xerneas Active Mode,blue,6,kalos,fairy,
+Yveltal,red,6,kalos,dark,flying
+Zygarde,green,6,kalos,dragon,ground
+Zygarde 50% Forme (Power Construct Ability),green,7,alola,dragon,ground
+Zygarde 10% Forme,black,7,alola,dragon,ground
+Zygarde 10% Forme (Power Construct Ability),black,7,alola,dragon,ground
+Zygarde Complete Forme,black,7,alola,dragon,ground
+Diancie,pink,6,kalos,rock,fairy
+Mega Diancie,pink,6,kalos,rock,fairy
+Hoopa,purple,6,kalos,psychic,ghost
+Hoopa Unbound,purple,6,kalos,psychic,dark
+Volcanion,brown,6,kalos,fire,water
+Rowlet,brown,7,alola,grass,flying
+Dartrix,brown,7,alola,grass,flying
+Decidueye,brown,7,alola,grass,ghost
+Hisuian Decidueye,brown,8,hisui,grass,fighting
+Litten,red,7,alola,fire,
+Torracat,red,7,alola,fire,
+Incineroar,red,7,alola,fire,dark
+Popplio,blue,7,alola,water,
+Brionne,blue,7,alola,water,
+Primarina,blue,7,alola,water,fairy
+Pikipek,black,7,alola,normal,flying
+Trumbeak,black,7,alola,normal,flying
+Toucannon,black,7,alola,normal,flying
+Yungoos,brown,7,alola,normal,
+Gumshoos,brown,7,alola,normal,
+Grubbin,gray,7,alola,bug,
+Charjabug,green,7,alola,bug,electric
+Vikavolt,blue,7,alola,bug,electric
+Crabrawler,purple,7,alola,fighting,
+Crabominable,white,7,alola,fighting,ice
+Oricorio,red,7,alola,fire,flying
+Oricorio Pom-Pom Style,yellow,7,alola,electric,flying
+Oricorio Pa'u Style,pink,7,alola,psychic,flying
+Oricorio Sensu Style,purple,7,alola,ghost,flying
+Cutiefly,yellow,7,alola,bug,fairy
+Ribombee,yellow,7,alola,bug,fairy
+Rockruff,brown,7,alola,rock,
+Rockruff (Own Tempo Ability),brown,7,alola,rock,
+Lycanroc,brown,7,alola,rock,
+Lycanroc Midnight Form,red,7,alola,rock,
+Lycanroc Dusk Form,brown,7,alola,rock,
+Wishiwashi,blue,7,alola,water,
+Wishiwashi School Form,blue,7,alola,water,
+Mareanie,blue,7,alola,poison,water
+Toxapex,blue,7,alola,poison,water
+Mudbray,brown,7,alola,ground,
+Mudsdale,brown,7,alola,ground,
+Dewpider,green,7,alola,water,bug
+Araquanid,green,7,alola,water,bug
+Fomantis,pink,7,alola,grass,
+Lurantis,pink,7,alola,grass,
+Morelull,purple,7,alola,grass,fairy
+Shiinotic,purple,7,alola,grass,fairy
+Salandit,black,7,alola,poison,fire
+Salazzle,black,7,alola,poison,fire
+Stufful,pink,7,alola,normal,fighting
+Bewear,pink,7,alola,normal,fighting
+Bounsweet,purple,7,alola,grass,
+Steenee,purple,7,alola,grass,
+Tsareena,purple,7,alola,grass,
+Comfey,green,7,alola,fairy,
+Oranguru,white,7,alola,normal,psychic
+Passimian,white,7,alola,fighting,
+Wimpod,gray,7,alola,bug,water
+Golisopod,gray,7,alola,bug,water
+Sandygast,brown,7,alola,ghost,ground
+Palossand,brown,7,alola,ghost,ground
+Pyukumuku,black,7,alola,water,
+Type: Null,gray,7,alola,normal,
+Silvally,gray,7,alola,normal,
+Silvally Type: Fighting,gray,7,alola,fighting,
+Silvally Type: Flying,gray,7,alola,flying,
+Silvally Type: Poison,gray,7,alola,poison,
+Silvally Type: Ground,gray,7,alola,ground,
+Silvally Type: Rock,gray,7,alola,rock,
+Silvally Type: Bug,gray,7,alola,bug,
+Silvally Type: Ghost,gray,7,alola,ghost,
+Silvally Type: Steel,gray,7,alola,steel,
+Silvally Type: Fire,gray,7,alola,fire,
+Silvally Type: Water,gray,7,alola,water,
+Silvally Type: Grass,gray,7,alola,grass,
+Silvally Type: Electric,gray,7,alola,electric,
+Silvally Type: Psychic,gray,7,alola,psychic,
+Silvally Type: Ice,gray,7,alola,ice,
+Silvally Type: Dragon,gray,7,alola,dragon,
+Silvally Type: Dark,gray,7,alola,dark,
+Silvally Type: Fairy,gray,7,alola,fairy,
+Minior Red Core,red,7,alola,rock,flying
+Minior Orange Core,red,7,alola,rock,flying
+Minior Yellow Core,red,7,alola,rock,flying
+Minior Green Core,red,7,alola,rock,flying
+Minior Blue Core,red,7,alola,rock,flying
+Minior Indigo Core,red,7,alola,rock,flying
+Minior Violet Core,red,7,alola,rock,flying
+Minior Meteor Form,red,7,alola,rock,flying
+Komala,blue,7,alola,normal,
+Turtonator,red,7,alola,fire,dragon
+Togedemaru,gray,7,alola,electric,steel
+Mimikyu,yellow,7,alola,ghost,fairy
+Mimikyu Busted Form,yellow,7,alola,ghost,fairy
+Bruxish,pink,7,alola,water,psychic
+Drampa,white,7,alola,normal,dragon
+Dhelmise,green,7,alola,ghost,grass
+Jangmo-o,gray,7,alola,dragon,
+Hakamo-o,gray,7,alola,dragon,fighting
+Kommo-o,gray,7,alola,dragon,fighting
+Tapu Koko,yellow,7,alola,electric,fairy
+Tapu Lele,pink,7,alola,psychic,fairy
+Tapu Bulu,red,7,alola,grass,fairy
+Tapu Fini,purple,7,alola,water,fairy
+Cosmog,blue,7,alola,psychic,
+Cosmoem,blue,7,alola,psychic,
+Solgaleo,white,7,alola,psychic,steel
+Lunala,purple,7,alola,psychic,ghost
+Nihilego,white,7,alola,rock,poison
+Buzzwole,red,7,alola,bug,fighting
+Pheromosa,white,7,alola,bug,fighting
+Xurkitree,black,7,alola,electric,
+Celesteela,green,7,alola,steel,flying
+Kartana,white,7,alola,grass,steel
+Guzzlord,black,7,alola,dark,dragon
+Necrozma,black,7,alola,psychic,
+Necrozma Dusk Mane,yellow,7,alola,psychic,steel
+Necrozma Dawn Wings,blue,7,alola,psychic,ghost
+Ultra Necrozma,yellow,7,alola,psychic,dragon
+Magearna,gray,7,alola,steel,fairy
+Magearna Original Color,red,7,alola,steel,fairy
+Marshadow,gray,7,alola,fighting,ghost
+Poipole,purple,7,alola,poison,
+Naganadel,purple,7,alola,poison,dragon
+Stakataka,gray,7,alola,rock,steel
+Blacephalon,white,7,alola,fire,ghost
+Zeraora,yellow,7,alola,electric,
+Meltan,gray,7,unknown,steel,
+Melmetal,gray,7,unknown,steel,
+Gigantamax Melmetal,gray,8,unknown,steel,
+Grookey,green,8,galar,grass,
+Thwackey,green,8,galar,grass,
+Rillaboom,green,8,galar,grass,
+Gigantamax Rillaboom,green,8,galar,grass,
+Scorbunny,white,8,galar,fire,
+Raboot,gray,8,galar,fire,
+Cinderace,white,8,galar,fire,
+Gigantamax Cinderace,white,8,galar,fire,
+Sobble,blue,8,galar,water,
+Drizzile,blue,8,galar,water,
+Inteleon,blue,8,galar,water,
+Gigantamax Inteleon,blue,8,galar,water,
+Skwovet,brown,8,galar,normal,
+Greedent,brown,8,galar,normal,
+Rookidee,blue,8,galar,flying,
+Corvisquire,blue,8,galar,flying,
+Corviknight,purple,8,galar,flying,steel
+Gigantamax Corviknight,purple,8,galar,flying,steel
+Blipbug,blue,8,galar,bug,
+Dottler,yellow,8,galar,bug,psychic
+Orbeetle,red,8,galar,bug,psychic
+Gigantamax Orbeetle,red,8,galar,bug,psychic
+Nickit,brown,8,galar,dark,
+Thievul,brown,8,galar,dark,
+Gossifleur,green,8,galar,grass,
+Eldegoss,green,8,galar,grass,
+Wooloo,white,8,galar,normal,
+Dubwool,white,8,galar,normal,
+Chewtle,green,8,galar,water,
+Drednaw,green,8,galar,water,rock
+Gigantamax Drednaw,green,8,galar,water,rock
+Yamper,yellow,8,galar,electric,
+Boltund,yellow,8,galar,electric,
+Rolycoly,black,8,galar,rock,
+Carkol,black,8,galar,rock,fire
+Coalossal,black,8,galar,rock,fire
+Gigantamax Coalossal,black,8,galar,rock,fire
+Applin,green,8,galar,grass,dragon
+Flapple,green,8,galar,grass,dragon
+Gigantamax Flapple,green,8,galar,grass,dragon
+Appletun,green,8,galar,grass,dragon
+Gigantamax Appletun,green,8,galar,grass,dragon
+Silicobra,green,8,galar,ground,
+Sandaconda,green,8,galar,ground,
+Gigantamax Sandaconda,green,8,galar,ground,
+Cramorant,blue,8,galar,flying,water
+Cramorant Gulping Form,blue,8,galar,flying,water
+Cramorant Gorging Form,blue,8,galar,flying,water
+Arrokuda,brown,8,galar,water,
+Barraskewda,brown,8,galar,water,
+Toxel,purple,8,galar,electric,poison
+Toxtricity,purple,8,galar,electric,poison
+Toxtricity Low Key Form,purple,8,galar,electric,poison
+Gigantamax Toxtricity,purple,8,galar,electric,poison
+Gigantamax Toxtricity Low Key,purple,8,galar,electric,poison
+Sizzlipede,red,8,galar,fire,bug
+Centiskorch,red,8,galar,fire,bug
+Gigantamax Centiskorch,red,8,galar,fire,bug
+Clobbopus,brown,8,galar,fighting,
+Grapploct,blue,8,galar,fighting,
+Sinistea,purple,8,galar,ghost,
+Sinistea (Antique),purple,8,galar,ghost,
+Polteageist,purple,8,galar,ghost,
+Polteageist (Antique),purple,8,galar,ghost,
+Hatenna,pink,8,galar,psychic,
+Hattrem,pink,8,galar,psychic,
+Hatterene,pink,8,galar,psychic,fairy
+Gigantamax Hatterene,pink,8,galar,psychic,fairy
+Impidimp,pink,8,galar,dark,fairy
+Morgrem,pink,8,galar,dark,fairy
+Grimmsnarl,purple,8,galar,dark,fairy
+Gigantamax Grimmsnarl,purple,8,galar,dark,fairy
+Obstagoon,gray,8,galar,dark,normal
+Perrserker,brown,8,galar,steel,
+Cursola,white,8,galar,ghost,
+Sirfetch’d,white,8,galar,fighting,
+Mr. Rime,purple,8,galar,ice,psychic
+Runerigus,gray,8,galar,ground,ghost
+Milcery,white,8,galar,fairy,
+Alcremie,white,8,galar,fairy,
+Alcremie (Vanilla Cream Berry),white,8,galar,fairy,
+Alcremie (Vanilla Cream Love),white,8,galar,fairy,
+Alcremie (Vanilla Cream Star),white,8,galar,fairy,
+Alcremie (Vanilla Cream Clover),white,8,galar,fairy,
+Alcremie (Vanilla Cream Flower),white,8,galar,fairy,
+Alcremie (Vanilla Cream Ribbon),white,8,galar,fairy,
+Alcremie (Ruby Cream Strawberry),white,8,galar,fairy,
+Alcremie (Ruby Cream Berry),white,8,galar,fairy,
+Alcremie (Ruby Cream Love),white,8,galar,fairy,
+Alcremie (Ruby Cream Star),white,8,galar,fairy,
+Alcremie (Ruby Cream Clover),white,8,galar,fairy,
+Alcremie (Ruby Cream Flower),white,8,galar,fairy,
+Alcremie (Ruby Cream Ribbon),white,8,galar,fairy,
+Alcremie (Matcha Cream Strawberry),white,8,galar,fairy,
+Alcremie (Matcha Cream Berry),white,8,galar,fairy,
+Alcremie (Matcha Cream Love),white,8,galar,fairy,
+Alcremie (Matcha Cream Star),white,8,galar,fairy,
+Alcremie (Matcha Cream Clover),white,8,galar,fairy,
+Alcremie (Matcha Cream Flower),white,8,galar,fairy,
+Alcremie (Matcha Cream Ribbon),white,8,galar,fairy,
+Alcremie (Mint Cream Strawberry),white,8,galar,fairy,
+Alcremie (Mint Cream Berry),white,8,galar,fairy,
+Alcremie (Mint Cream Love),white,8,galar,fairy,
+Alcremie (Mint Cream Star),white,8,galar,fairy,
+Alcremie (Mint Cream Clover),white,8,galar,fairy,
+Alcremie (Mint Cream Flower),white,8,galar,fairy,
+Alcremie (Mint Cream Ribbon),white,8,galar,fairy,
+Alcremie (Lemon Cream Strawberry),white,8,galar,fairy,
+Alcremie (Lemon Cream Berry),white,8,galar,fairy,
+Alcremie (Lemon Cream Love),white,8,galar,fairy,
+Alcremie (Lemon Cream Star),white,8,galar,fairy,
+Alcremie (Lemon Cream Clover),white,8,galar,fairy,
+Alcremie (Lemon Cream Flower),white,8,galar,fairy,
+Alcremie (Lemon Cream Ribbon),white,8,galar,fairy,
+Alcremie (Salted Cream Strawberry),white,8,galar,fairy,
+Alcremie (Salted Cream Berry),white,8,galar,fairy,
+Alcremie (Salted Cream Love),white,8,galar,fairy,
+Alcremie (Salted Cream Star),white,8,galar,fairy,
+Alcremie (Salted Cream Clover),white,8,galar,fairy,
+Alcremie (Salted Cream Flower),white,8,galar,fairy,
+Alcremie (Salted Cream Ribbon),white,8,galar,fairy,
+Alcremie (Ruby Swirl Strawberry),white,8,galar,fairy,
+Alcremie (Ruby Swirl Berry),white,8,galar,fairy,
+Alcremie (Ruby Swirl Love),white,8,galar,fairy,
+Alcremie (Ruby Swirl Star),white,8,galar,fairy,
+Alcremie (Ruby Swirl Clover),white,8,galar,fairy,
+Alcremie (Ruby Swirl Flower),white,8,galar,fairy,
+Alcremie (Ruby Swirl Ribbon),white,8,galar,fairy,
+Alcremie (Caramel Swirl Strawberry),white,8,galar,fairy,
+Alcremie (Caramel Swirl Berry),white,8,galar,fairy,
+Alcremie (Caramel Swirl Love),white,8,galar,fairy,
+Alcremie (Caramel Swirl Star),white,8,galar,fairy,
+Alcremie (Caramel Swirl Clover),white,8,galar,fairy,
+Alcremie (Caramel Swirl Flower),white,8,galar,fairy,
+Alcremie (Caramel Swirl Ribbon),white,8,galar,fairy,
+Alcremie (Rainbow Swirl Strawberry),white,8,galar,fairy,
+Alcremie (Rainbow Swirl Berry),white,8,galar,fairy,
+Alcremie (Rainbow Swirl Love),white,8,galar,fairy,
+Alcremie (Rainbow Swirl Star),white,8,galar,fairy,
+Alcremie (Rainbow Swirl Clover),white,8,galar,fairy,
+Alcremie (Rainbow Swirl Flower),white,8,galar,fairy,
+Alcremie (Rainbow Swirl Ribbon),white,8,galar,fairy,
+Gigantamax Alcremie,white,8,galar,fairy,
+Falinks,yellow,8,galar,fighting,
+Pincurchin,purple,8,galar,electric,
+Snom,white,8,galar,ice,bug
+Frosmoth,white,8,galar,ice,bug
+Stonjourner,gray,8,galar,rock,
+Eiscue,blue,8,galar,ice,
+Eiscue Noice Face,blue,8,galar,ice,
+Indeedee,purple,8,galar,psychic,normal
+Female Indeedee,purple,8,galar,psychic,normal
+Morpeko,yellow,8,galar,electric,dark
+Morpeko Hangry Mode,purple,8,galar,electric,dark
+Cufant,yellow,8,galar,steel,
+Copperajah,green,8,galar,steel,
+Gigantamax Copperajah,green,8,galar,steel,
+Dracozolt,green,8,galar,electric,dragon
+Arctozolt,blue,8,galar,electric,ice
+Dracovish,green,8,galar,water,dragon
+Arctovish,blue,8,galar,water,ice
+Duraludon,white,8,galar,steel,dragon
+Gigantamax Duraludon,white,8,galar,steel,dragon
+Dreepy,green,8,galar,dragon,ghost
+Drakloak,green,8,galar,dragon,ghost
+Dragapult,green,8,galar,dragon,ghost
+Zacian,blue,8,galar,fairy,
+Zacian Crowned Sword,blue,8,galar,fairy,steel
+Zamazenta,red,8,galar,fighting,
+Zamazenta Crowned Shield,red,8,galar,fighting,steel
+Eternatus,purple,8,galar,poison,dragon
+Eternatus Eternamax,purple,8,galar,poison,dragon
+Kubfu,gray,8,galar,fighting,
+Urshifu,gray,8,galar,fighting,dark
+Urshifu Rapid Strike Style,gray,8,galar,fighting,water
+Gigantamax Urshifu Single Strike Style,gray,8,galar,fighting,dark
+Gigantamax Urshifu Rapid Strike Style,gray,8,galar,fighting,water
+Zarude,black,8,galar,dark,grass
+Zarude Dada,black,8,galar,dark,grass
+Regieleki,yellow,8,galar,electric,
+Regidrago,green,8,galar,dragon,
+Glastrier,white,8,galar,ice,
+Spectrier,black,8,galar,ghost,
+Calyrex,green,8,galar,psychic,grass
+Calyrex Ice Rider,white,8,galar,psychic,ice
+Calyrex Shadow Rider,black,8,galar,psychic,ghost
+Wyrdeer,white,8,hisui,normal,psychic
+Kleavor,brown,8,hisui,bug,rock
+Ursaluna,brown,8,hisui,ground,normal
+Ursaluna (Blood Moon Form),white,9,paldea,ground,normal
+Basculegion,green,8,hisui,water,ghost
+Basculegion ♀,green,8,hisui,water,ghost
+Sneasler,purple,8,hisui,fighting,poison
+Overqwil,gray,8,hisui,dark,poison
+Enamorus,pink,8,hisui,fairy,flying
+Enamorus Therian Forme,pink,8,hisui,fairy,flying
+Sprigatito,green,9,paldea,grass,
+Floragato,green,9,paldea,grass,
+Meowscarada,green,9,paldea,grass,dark
+Fuecoco,red,9,paldea,fire,
+Crocalor,red,9,paldea,fire,
+Skeledirge,red,9,paldea,fire,ghost
+Quaxly,blue,9,paldea,water,
+Quaxwell,blue,9,paldea,water,
+Quaquaval,blue,9,paldea,water,fighting
+Lechonk,gray,9,paldea,normal,
+Oinkologne,gray,9,paldea,normal,
+Oinkologne ♀,brown,9,paldea,normal,
+Tarountula,white,9,paldea,bug,
+Spidops,green,9,paldea,bug,
+Nymble,gray,9,paldea,bug,
+Lokix,gray,9,paldea,bug,dark
+Pawmi,yellow,9,paldea,electric,
+Pawmo,yellow,9,paldea,electric,fighting
+Pawmot,yellow,9,paldea,electric,fighting
+Tandemaus,white,9,paldea,normal,
+Maushold,white,9,paldea,normal,
+Maushold Family of Three,white,9,paldea,normal,
+Fidough,yellow,9,paldea,fairy,
+Dachsbun,brown,9,paldea,fairy,
+Smoliv,green,9,paldea,grass,normal
+Dolliv,green,9,paldea,grass,normal
+Arboliva,green,9,paldea,grass,normal
+Squawkabilly,green,9,paldea,normal,flying
+Squawkabilly Blue-feathered,blue,9,paldea,normal,flying
+Squawkabilly Yellow-feathered,yellow,9,paldea,normal,flying
+Squawkabilly White-feathered,white,9,paldea,normal,flying
+Nacli,brown,9,paldea,rock,
+Naclstack,brown,9,paldea,rock,
+Garganacl,brown,9,paldea,rock,
+Charcadet,red,9,paldea,fire,
+Armarouge,red,9,paldea,fire,psychic
+Ceruledge,blue,9,paldea,fire,ghost
+Tadbulb,yellow,9,paldea,electric,
+Bellibolt,green,9,paldea,electric,
+Wattrel,black,9,paldea,electric,flying
+Kilowattrel,yellow,9,paldea,electric,flying
+Maschiff,brown,9,paldea,dark,
+Mabosstiff,gray,9,paldea,dark,
+Shroodle,gray,9,paldea,poison,normal
+Grafaiai,gray,9,paldea,poison,normal
+Bramblin,brown,9,paldea,grass,ghost
+Brambleghast,brown,9,paldea,grass,ghost
+Toedscool,yellow,9,paldea,ground,grass
+Toedscruel,black,9,paldea,ground,grass
+Klawf,red,9,paldea,rock,
+Capsakid,green,9,paldea,grass,
+Scovillain,green,9,paldea,grass,fire
+Rellor,brown,9,paldea,bug,
+Rabsca,green,9,paldea,bug,psychic
+Flittle,yellow,9,paldea,psychic,
+Espathra,yellow,9,paldea,psychic,
+Tinkatink,pink,9,paldea,fairy,steel
+Tinkatuff,pink,9,paldea,fairy,steel
+Tinkaton,pink,9,paldea,fairy,steel
+Wiglett,white,9,paldea,water,
+Wugtrio,red,9,paldea,water,
+Bombirdier,white,9,paldea,flying,dark
+Finizen,blue,9,paldea,water,
+Palafin,blue,9,paldea,water,
+Palafin Hero Form,blue,9,paldea,water,
+Varoom,gray,9,paldea,steel,poison
+Revavroom,gray,9,paldea,steel,poison
+Cyclizar,green,9,paldea,dragon,normal
+Orthworm,pink,9,paldea,steel,
+Glimmet,blue,9,paldea,rock,poison
+Glimmora,blue,9,paldea,rock,poison
+Greavard,white,9,paldea,ghost,
+Houndstone,white,9,paldea,ghost,
+Flamigo,pink,9,paldea,flying,fighting
+Cetoddle,white,9,paldea,ice,
+Cetitan,white,9,paldea,ice,
+Veluza,gray,9,paldea,water,psychic
+Dondozo,blue,9,paldea,water,
+Tatsugiri,pink,9,paldea,dragon,water
+Tatsugiri Droopy Form,pink,9,paldea,dragon,water
+Tatsugiri Sketchy Form,pink,9,paldea,dragon,water
+Annihilape,gray,9,paldea,fighting,ghost
+Clodsire,brown,9,paldea,poison,ground
+Farigiraf,brown,9,paldea,normal,psychic
+Dudunsparce,yellow,9,paldea,normal,
+Dudunsparce Three-Segment Form,yellow,9,paldea,normal,
+Kingambit,black,9,paldea,dark,steel
+Great Tusk,purple,9,paldea,ground,fighting
+Scream Tail,pink,9,paldea,fairy,psychic
+Brute Bonnet,gray,9,paldea,grass,dark
+Flutter Mane,gray,9,paldea,ghost,fairy
+Slither Wing,red,9,paldea,bug,fighting
+Sandy Shocks,gray,9,paldea,electric,ground
+Iron Treads,gray,9,paldea,ground,steel
+Iron Bundle,red,9,paldea,ice,water
+Iron Hands,gray,9,paldea,fighting,electric
+Iron Jugulis,blue,9,paldea,dark,flying
+Iron Moth,yellow,9,paldea,fire,poison
+Iron Thorns,green,9,paldea,rock,electric
+Frigibax,gray,9,paldea,dragon,ice
+Arctibax,gray,9,paldea,dragon,ice
+Baxcalibur,gray,9,paldea,dragon,ice
+Gimmighoul,brown,9,paldea,ghost,
+Gimmighoul Roaming Form,blue,9,paldea,ghost,
+Gholdengo,yellow,9,paldea,steel,ghost
+Wo-Chien,brown,9,paldea,dark,grass
+Chien-Pao,white,9,paldea,dark,ice
+Ting-Lu,brown,9,paldea,dark,ground
+Chi-Yu,red,9,paldea,dark,fire
+Roaring Moon,green,9,paldea,dragon,dark
+Iron Valiant,white,9,paldea,fairy,fighting
+Koraidon,red,9,paldea,fighting,dragon
+Miraidon,blue,9,paldea,electric,dragon
+Walking Wake,blue,9,paldea,water,dragon
+Iron Leaves,green,9,paldea,grass,psychic
+Dipplin,red,9,paldea,grass,dragon
+Poltchageist,white,9,paldea,grass,ghost
+Poltchageist (Artisan Form),white,9,paldea,grass,ghost
+Sinistcha,white,9,paldea,grass,ghost
+Sinistcha (Masterpiece Form),white,9,paldea,grass,ghost
+Okidogi,white,9,paldea,poison,fighting
+Munkidori,white,9,paldea,poison,psychic
+Fezandipiti,white,9,paldea,poison,fairy
+Ogerpon,green,9,paldea,grass,
+Ogerpon (Wellspring Mask),blue,9,paldea,grass,water
+Ogerpon (Hearthflame Mask),red,9,paldea,grass,fire
+Ogerpon (Cornerstone Mask),red,9,paldea,grass,rock
+Archaludon,white,9,paldea,dragon,steel
+Raging Bolt,yellow,9,paldea,electric,dragon
+Iron Crown,blue,9,paldea,steel,psychic
+Terapagos,white,9,paldea,normal,
+Terapagos (Terastal Form),white,9,paldea,normal,
