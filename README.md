@@ -1,0 +1,1 @@
+# supereffective.gg-pokedex-scrapper
